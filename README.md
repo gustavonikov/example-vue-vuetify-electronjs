@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was made with electronJs and Vue.Js, he takes txt files like subtitles, and show the most used words in the series or film, can be used with other txt files too, to know how many words repeat themselves in it.
+This project was made with electronJs, Vue.Js and utilizing the UI lib Vuetify. It takes as input txt files like subtitles, and show the most used words in the series or film, can be used with other txt files too, to know how many words repeat themselves in it.
 
 ## Getting Started
 
