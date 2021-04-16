@@ -1,24 +1,33 @@
-# most_used_words
+# Most Used Words
 
-## Project setup
+## Introduction
+
+This project was made with electronJs and Vue.Js, he takes txt files like subtitles, and show the most used words in this series or film, can be used with other txt files
+to know how many words repeat themselves in a txt file.
+
+## Getting Started
+
+You can use ``` git clone ``` to clone this repository or you can download the ZIP file.
+
+## Commands
+
+
+### To install all dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### To run the app using electron
 ```
-npm run serve
+npm run electron:serve
 ```
 
-### Compiles and minifies for production
+### To build the app using electron
 ```
-npm run build
+npm run electron:build
 ```
 
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
