@@ -7,7 +7,12 @@ to know how many words repeat themselves in a txt file.
 
 ## Getting Started
 
-You can use ``` git clone ``` to clone this repository or you can download the ZIP file.
+You can use 
+``` 
+
+git clone https://github.com/gustavonikov/example-vue-vuetify-electronjs 
+``` 
+to clone this repository or you can download the ZIP file.
 
 ## Commands
 
